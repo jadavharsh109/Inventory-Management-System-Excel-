@@ -130,3 +130,7 @@ The system is designed for **small businesses & retail stores** to efficiently m
 
 ---
 
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
+
